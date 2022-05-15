@@ -1,0 +1,22 @@
+{
+  "name": "Dejavu Tag Bot",
+  "logo":"https://te.legra.ph/file/50771de1bcd2e67af5ae4.jpg",
+  "description": "Dejavu Tag Bot siz pulsuz üzvlərinizi etiketləyən bir botsunuz.",
+  "env": {
+    "TOKEN": {
+      "description": "Bot nişanını daxil edin.",
+      "value": ""
+    },
+    "APP_ID": {
+      "description": " web.telegram.org/ api hash api id-ni əldə edin",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": " web.telegram.org/ dan api hash api id əldə edin.",
+      "value": ""
+    }
+  },
+  "buildpacks": [{
+    "url": "https://github.com/heroku/heroku-buildpack-python.git"
+  }]
+}
