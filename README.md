@@ -22,3 +22,13 @@ Yaxin Zamanda Sizlere Sunacaqiz... Imza: [Hassan](https://t.me/ThrHassan)
    | /tektag - < sebeb > | User'leri Tek-tek Tag Edecekdir! |
    | /etag - < sebeb > | User'leri Emoji'li Tag Edecekdir! |
    | /cancel - < sebeb > |  Tag Edmegi Dayandiracaqdir! |
+
+ # Dejavu
+  [DejavuSupport](https://t.me/DejavuSupport)
+  [DejavuTeam](https://t.me/DejavuTeam)
+  # DegGixM
+ [DegGixM](https://t.me/DegGixM)
+ # Owner 
+ [Ali](https://t.me/MUCVE_M)
+ [HASSAN](https://t.me/ThrHassan)
+ [Fatime](https://t.me/ThrYuni)
