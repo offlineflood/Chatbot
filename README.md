@@ -16,14 +16,9 @@ Yaxin Zamanda Sizlere Sunacaqiz... Imza: [Hassan](https://t.me/ThrHassan)
   DejavuTagBot'nun Bir Qisa Formatda yazilmis Kod hissesidir.
   Tag Bot'unun Funksiyasi Asaqidakilardir.
   
-| Yönetici Komutları | Açıklama |
- 
-|--------------------|-------------------------------- --|
- 
-| /all - <sebeb> | User'leri 5-li Tag Edecekdir! |
- 
-| /tektag - <sebeb> | User'leri Tek-tek Tag Edecekdir! |
- 
-| /etag - <sebeb> | User'leri Emoji'li Tag Edecekdir! |
- 
-| /cancel - <sebeb> |  Tag Edmegi Dayandiracaqdir! |
+   | Yönetici Komutları | Açıklama |
+   |--------------------|----------------------------------|
+   | /all - <sebeb> | User'leri 5-li Tag Edecekdir! |
+   | /tektag - <sebeb> | User'leri Tek-tek Tag Edecekdir! |
+   | /etag - <sebeb> | User'leri Emoji'li Tag Edecekdir! |
+   | /cancel - <sebeb> |  Tag Edmegi Dayandiracaqdir! |
