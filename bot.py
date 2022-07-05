@@ -26,9 +26,7 @@ tekli_calisan = []
 async def start(event):
   await event.reply("Aleykum Salam😁 ",
 
-@client.on(events.NewMessage(pattern="^/help$"))
-async def start(event):
-  await event.reply("saxaiyqi daaaa ",
+
 
 
 
