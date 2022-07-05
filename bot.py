@@ -22,14 +22,27 @@ tekli_calisan = []
 
 
 
-@client.on(events.NewMessage(pattern="^salam$"))
+@client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
   await event.reply("Aleykum Salam😁 ",
 
-@client.on(events.NewMessage(pattern="^necəsiz$"))
+@client.on(events.NewMessage(pattern="^/help$"))
 async def start(event):
   await event.reply("saxaiyqi daaaa ",
 
+
+
+@app.on_message(filters.command("salam"))
+async def _py(client: Client, message: Message):
+   await message.reply_text('Aleykum Salam')
+
+
+
+ 
+
+
+
+ 
 @client.on(events.NewMessage(pattern="^nə$"))
 async def start(event):
   await event.reply("zəhər😁 ",
